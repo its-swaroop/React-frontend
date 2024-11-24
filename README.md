@@ -1,3 +1,10 @@
+# **React - The Complete Guide 2024 (incl. Next.js, Redux) - Study Notes**  
+
+These notes are derived from *"React - The Complete Guide 2024"* by Maximilian Schwarzmüller on Udemy. 
+
+<br/>
+<br/>
+
 ### Section 1: Getting Started  
 
 #### **Overview of React**  
